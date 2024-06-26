@@ -1,0 +1,7 @@
+Outlab 7 : Concurrency in Java
+
+References used
+1) Doubt fourum in piazza to clear our doubts
+2) Java documentation links provided in outlab problem statement
+3) Lecture and notes provided by prof helped a lot
+4) Googling a set of java Semaphores methods 
